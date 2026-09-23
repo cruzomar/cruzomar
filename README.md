@@ -1,61 +1,57 @@
 # Hi, I'm Omar 👋
 
-🎓 B.S. in Computer Science from California State Polytechnic University, Pomona (December 2025).
+I'm a Software Engineering master's student at **UC Irvine** with a B.S. in Computer Science from **Cal Poly Pomona**.
 
-💻 Aspiring Software Engineer interested in building reliable and scalable software.
+I enjoy building **full-stack and mobile applications**, especially products that combine clean user interfaces with well-structured backend APIs and databases.
 
-🛠️ Love turning ideas into full-stack projects with clean, reusable components.  
+I'm currently looking for **Summer 2027 Software Engineering internship opportunities**.
 
-☁️ Growing my skills in cloud and backend APIs (AWS Certified Cloud Practitioner).  
+## 💻 What I Work With
 
-📚 Outside of code, I enjoy learning, staying active, and working on personal projects.
+**Languages**  
+Java • Python • JavaScript • TypeScript • Dart
 
----
+**Frontend & Mobile**  
+React • Next.js • Flutter • HTML • CSS • Tailwind CSS
 
-## 🧰 Tech Stack
+**Backend**  
+Node.js • Express.js • Flask • REST APIs
 
-### Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=plastic&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+**Databases & Cloud**  
+Supabase • Firebase • AWS • Google Cloud
 
-### Frameworks & Libraries  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-%23000000.svg?style=plastic&logo=fastapi&logoColor=white)
+**Tools**  
+Git • GitHub • Vite • Figma
 
-### Databases & Cloud  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+## 🚀 Featured Projects
 
-### Tools & Design  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+### SpendScout
+AI-powered budgeting application that analyzes bank statement data and generates personalized financial reports.
 
----
-<!--
+`Python` `Flask` `LangChain` `Google Gemini`
 
-## 📊 GitHub Overview
+### Tessera
+Full-stack social media application with posts, profiles, nested comments and replies, image uploads, and REST API functionality.
 
-![Profile views](https://komarev.com/ghpvc/?username=omarcruz999&style=plastic)
+`React` `TypeScript` `Express.js` `Supabase`
 
----
--->
-## 📫 Let's Connect
+### BroncoBond
+Mobile event discovery application featuring searchable event feeds, reusable event components, notification settings, and responsive Flutter interfaces.
 
-- 💻 GitHub: [github.com/cruzomar](https://github.com/cruzomar)  
-- 📧 Email: [omarcruz4357@gmail.com](mailto:omarcruz4357@gmail.com)
-- 🔗 LinkedIn: [Omar Cruz](https://www.linkedin.com/in/o-cruz/)
+`Flutter` `Dart`
+
+### Perfect Form
+Mobile fitness application with exercise history, real-time Firebase updates, filtering across exercise categories, and a Flask backend.
+
+`Flutter` `Dart` `Firebase` `Python` `Flask`
+
+## ☁️ Certifications
+
+- AWS Certified Cloud Practitioner
+- Google Cloud Computing Foundations
+- Google Cloud Data Analytics
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/o-cruz/) •
+[Email](mailto:omarcruz4357@gmail.com)
